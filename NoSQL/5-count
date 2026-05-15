@@ -1,2 +1,2 @@
-// my comment
-db.school.countDocuments({})
+// comment: Write a script that displays the number of documents in the collection school
+print(db.school.count())
